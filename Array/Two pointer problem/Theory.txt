@@ -1,0 +1,16 @@
+1) What is Two pointer?
+Two pointer = Using 2 variables to scan and array/string
+
+Instead of checking every element one by one, we check from both end at the same time.
+Left pointer moves right
+Right pointer moves Left
+
+They meet in middle.
+Cuts your work in half.
+
+2) When to use?
+  a) Array is sorted
+  b) Question is asked to do in 0(n) time
+  c) We are comparing element from both end
+  d) We need to find pair or triplet
+  e) Brute force lead nested loop
